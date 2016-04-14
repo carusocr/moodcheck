@@ -1,2 +1,2 @@
-require './moodcheck''
+require './moodcheck'
 run Sinatra::Application

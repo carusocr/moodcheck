@@ -1,2 +1,2 @@
-require './helloworld'
+require './moodcheck''
 run Sinatra::Application
